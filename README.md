@@ -43,4 +43,6 @@ Abra nuevamente el *Símbolo del Sistema**,*** corrala como administrador, y eje
 
 **Fecha de publicación: Martes 30 de Agosto de 2022**
 
+**Sitio oficial:** https://blush-cirrus-df9.notion.site/Hack-Avanzado-para-tener-StartUML-Totalmente-Gratis-Aqu-te-ense-o-como-b41b775fec214fcd8d675db933cabd15
+
 ©️ Está rotundamente prohibido compartir este documento sin mi previa autorización.
