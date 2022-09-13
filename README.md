@@ -1,3 +1,4 @@
+![Image text](https://img.freepik.com/premium-photo/hacker-without-face-hood-dark_295303-1506.jpg?w=2000)
 # Hack Avanzado para tener StartUML Totalmente Gratis - Aquí te enseño como.
 
 Hola! cordial saludo estimada/o. El presente documento contiene una información muy valiosa para tener el programa **StartUML** totalmente gratis sin tener que gastar ni un sólo peso colombiano en su licencia de **$99** dólares USD. Cabe mencionar, que acá no se hace uso de *cracks o activadores,* se hace uso del código fuente del propio programa, además, no tiendo a compartir está información con nadie (nada más que yo quiera intercambiar conocimentos).
